@@ -1,3 +1,3 @@
-### VGG16 
+#VGG16 
 ##Başarı Oranı 85.00%
-# Taş Kağıt Makas olarak alınan verilerden VGG16 modeli kullanılarak yapılmıştır.
+###Taş Kağıt Makas olarak alınan verilerden VGG16 modeli kullanılarak yapılmıştır.
